@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9420141.css",
+    "main.js": "/static/js/main.e9924edf.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/people.jpg": "/static/media/people.3ce273d8db88839cb770.jpg",
+    "static/media/apPic.png": "/static/media/apPic.085ebc9a6377f49c67ab.png",
+    "static/media/AP.png": "/static/media/AP.efb61550a4c26f854057.png",
+    "index.html": "/index.html",
+    "main.c9420141.css.map": "/static/css/main.c9420141.css.map",
+    "main.e9924edf.js.map": "/static/js/main.e9924edf.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9420141.css",
+    "static/js/main.e9924edf.js"
+  ]
+}
